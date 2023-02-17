@@ -1,0 +1,8 @@
+# ninja log v5
+1	153	1674708860585923572	CMakeFiles/xBankV1.dir/tcpServer/dbBT.c.o	19f6ce25682cd7ae
+136	177	1674720565568122861	xBankV1	b7b3d3af6d7002dc
+0	136	1674720565525914621	CMakeFiles/xBankV1.dir/tcpServer/reTEst.c.o	d8ac55ca35ceda2d
+1	191	1674721446426733961	CMakeFiles/xBankV1.dir/tcpServer/tcp_serve_toupper.c.o	4b24904803a45221
+192	239	1674721446476152754	xBankV1	bb550ffa9f5855b8
+1	177	1674721613117371264	CMakeFiles/xBankV1.dir/tcpServer/tcp_serve_toupper.c.o	4b24904803a45221
+177	219	1674721613161060232	xBankV1	bb550ffa9f5855b8
